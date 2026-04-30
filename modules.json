@@ -4,8 +4,10 @@
     "fileName": "HSB4.SQLite3",
     "fontFamily": "serif",
     "fontSize": 20.0,
-    "isRtl": true,
     "sizeMB": 6.09,
+    "type": "translation",
+    "language": "Иврит",
+    "isRtl": true,
     "url": "https://github.com/Hartpanzer/znakichthys_modules/raw/refs/heads/main/HSB4.SQLite3"
   }
 ]
