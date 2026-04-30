@@ -9,5 +9,12 @@
     "language": "Иврит",
     "isRtl": true,
     "url": "https://github.com/Hartpanzer/znakichthys_modules/raw/refs/heads/main/HSB4.SQLite3"
+  },
+  {
+    "title": "Кирилл Александрийский (376-444)",
+    "fileName": "КирАл.commentaries.SQLite3",
+    "url": "https://github.com/Hartpanzer/znakichthys_modules/raw/refs/heads/main/КирАл.commentaries.SQLite3",
+    "sizeMB": "24.2",
+    "type": "commentary"
   }
 ]
