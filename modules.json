@@ -11,6 +11,61 @@
     "url": "https://github.com/Hartpanzer/znakichthys_modules/raw/refs/heads/main/HSB4.SQLite3"
   },
   {
+    "title": "Арабский (AVD)",
+    "fileName": "AVD.SQLite3",
+    "fontFamily": "serif",
+    "fontSize": 20.0,
+    "sizeMB": 9.56,
+    "type": "translation",
+    "language": "Арабский",
+    "isRtl": true,
+    "url": "https://github.com/Hartpanzer/znakichthys_modules/raw/refs/heads/main/AVD.SQLite3"
+  },
+  {
+    "title": "Персидский (FACB)",
+    "fileName": "FACB.SQLite3",
+    "fontFamily": "serif",
+    "fontSize": 20.0,
+    "sizeMB": 8.08,
+    "type": "translation",
+    "language": "Персидский",
+    "isRtl": true,
+    "url": "https://github.com/Hartpanzer/znakichthys_modules/raw/refs/heads/main/FACB.SQLite3"
+  },
+  {
+    "title": "Английский (KJV+)",
+    "fileName": "KJV+.SQLite3",
+    "fontFamily": "serif",
+    "fontSize": 20.0,
+    "sizeMB": 9.72,
+    "type": "translation",
+    "language": "Английский",
+    "isRtl": false,
+    "url": "https://github.com/Hartpanzer/znakichthys_modules/raw/refs/heads/main/KJV+.SQLite3"
+  },
+  {
+    "title": "Греческий (TGV)",
+    "fileName": "TGV.SQLite3",
+    "fontFamily": "serif",
+    "fontSize": 20.0,
+    "sizeMB": 10.1,
+    "type": "translation",
+    "language": "Греческий",
+    "isRtl": false,
+    "url": "https://github.com/Hartpanzer/znakichthys_modules/raw/refs/heads/main/TGV.SQLite3"
+  },
+  {
+    "title": "Персидский (TPVR'23)",
+    "fileName": "TPVR'23.SQLite3",
+    "fontFamily": "serif",
+    "fontSize": 20.0,
+    "sizeMB": 8.43,
+    "type": "translation",
+    "language": "Персидский",
+    "isRtl": true,
+    "url": "https://github.com/Hartpanzer/znakichthys_modules/raw/refs/heads/main/TPVR'23.SQLite3"
+  },
+  {
     "title": "Кирилл Александрийский (376-444)",
     "fileName": "КирАл.commentaries.SQLite3",
     "url": "https://github.com/Hartpanzer/znakichthys_modules/raw/refs/heads/main/КирАл.commentaries.SQLite3",
