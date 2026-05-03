@@ -22,15 +22,15 @@
     "url": "https://github.com/Hartpanzer/znakichthys_modules/raw/refs/heads/main/AVD.SQLite3"
   },
   {
-    "title": "Персидский (FACB)",
-    "fileName": "FACB.SQLite3",
+    "title": "Персидский (FB)",
+    "fileName": "FB.SQLite3",
     "fontFamily": "serif",
     "fontSize": 20.0,
     "sizeMB": 8.08,
     "type": "translation",
     "language": "Персидский",
     "isRtl": true,
-    "url": "https://github.com/Hartpanzer/znakichthys_modules/raw/refs/heads/main/FACB.SQLite3"
+    "url": "https://github.com/Hartpanzer/znakichthys_modules/raw/refs/heads/main/FB.SQLite3"
   },
   {
     "title": "Английский (KJV+)",
