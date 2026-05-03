@@ -66,10 +66,73 @@
     "url": "https://github.com/Hartpanzer/znakichthys_modules/raw/refs/heads/main/TPVR'23.SQLite3"
   },
   {
+    "title": "Афанасий Великий свт. (ок. 295 — 373)",
+    "fileName": "АфанВел.commentaries.SQLite3",
+    "url": "https://github.com/Hartpanzer/znakichthys_modules/raw/refs/heads/main/АфанВел.commentaries.SQLite3",
+    "sizeMB": "3.14",
+    "type": "commentary"
+  },
+  {
+    "title": "Августин Иппонийский блж. (354 — 430)",
+    "fileName": "АвгИпп.commentaries.SQLite3",
+    "url": "https://github.com/Hartpanzer/znakichthys_modules/raw/refs/heads/main/АвгИпп.commentaries.SQLite3",
+    "sizeMB": "8.66",
+    "type": "commentary"
+  },
+  {
+    "title": "Амвросий Медиоланский свт. (ок. 340 — 397)",
+    "fileName": "АмврМд.commentaries.SQLite3",
+    "url": "https://github.com/Hartpanzer/znakichthys_modules/raw/refs/heads/main/АмврМд.commentaries.SQLite3",
+    "sizeMB": "3.38",
+    "type": "commentary"
+  },
+  {
+    "title": "Иероним Стридонский блж. (347 — 420)",
+    "fileName": "ИерСтр.commentaries.SQLite3",
+    "url": "https://github.com/Hartpanzer/znakichthys_modules/raw/refs/heads/main/ИерСтр.commentaries.SQLite3",
+    "sizeMB": "23.92",
+    "type": "commentary"
+  },
+  {
     "title": "Кирилл Александрийский (376-444)",
     "fileName": "КирАл.commentaries.SQLite3",
     "url": "https://github.com/Hartpanzer/znakichthys_modules/raw/refs/heads/main/КирАл.commentaries.SQLite3",
     "sizeMB": "24.2",
+    "type": "commentary"
+  },
+  {
+    "title": "Феодорит Кирский блж. (386/93 — ~457)",
+    "fileName": "ФеодКир.commentaries.SQLite3",
+    "url": "https://github.com/Hartpanzer/znakichthys_modules/raw/refs/heads/main/ФеодКир.commentaries.SQLite3",
+    "sizeMB": "12.75",
+    "type": "commentary"
+  },
+  {
+    "title": "Андрей Кесарийский (Апокалипсис)",
+    "fileName": "АнKec-к.commentaries.SQLite3",
+    "url": "https://github.com/Hartpanzer/znakichthys_modules/raw/refs/heads/main/АнKec-к.commentaries.SQLite3",
+    "sizeMB": "0.57",
+    "type": "commentary"
+  },
+  {
+    "title": "Григорий Двоеслов свт. (ок. 540 — 604)",
+    "fileName": "ГрДвсл.commentaries.SQLite3",
+    "url": "https://github.com/Hartpanzer/znakichthys_modules/raw/refs/heads/main/ГрДвсл.commentaries.SQLite3",
+    "sizeMB": "9.41",
+    "type": "commentary"
+  },
+  {
+    "title": "Филарет (Дроздов) свт. (1782—1867)",
+    "fileName": "Фил(Др).commentaries.SQLite3",
+    "url": "https://github.com/Hartpanzer/znakichthys_modules/raw/refs/heads/main/Фил(Др).commentaries.SQLite3",
+    "sizeMB": "5.01",
+    "type": "commentary"
+  },
+  {
+    "title": "Феофан Затворник свт. (1815 — 1894)",
+    "fileName": "ФеофЗтв.commentaries.SQLite3",
+    "url": "https://github.com/Hartpanzer/znakichthys_modules/raw/refs/heads/main/ФеофЗтв.commentaries.SQLite3",
+    "sizeMB": "18.79",
     "type": "commentary"
   }
 ]
